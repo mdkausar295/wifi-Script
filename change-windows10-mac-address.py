@@ -1,7 +1,7 @@
 ##################################################################################################
-#Copyright of David Bombal, 2021                                                                 #
-#https://www.davidbombal.com                                                                     #
-#https://www.youtube.com/davidbombal                                                             #
+#Copyright of CMax Kausar, 2021                                                                 #
+#https://www.webexorcist.net                                                                    #
+#https://www.youtube.com/CMaxKausar                                                             #
 #                                                                                                #
 # Please note that this code can be improved by using functions. It is not programmed to cater   #
 # for all situations, but to be used as a learning tool.                                         #
